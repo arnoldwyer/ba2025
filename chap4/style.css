@@ -1,0 +1,65 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: beige;
+}
+
+p {
+    color: blue;
+    display: inline;
+    font-size: x-large;
+    padding: 20px;
+}
+
+#titre1 {
+    color: pink;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.jour {
+    font-style: italic;
+    background-color: aqua;
+}
+
+.jour:hover  {
+    background-color: #ff00a6;
+}
+
+#lun {
+    color: yellow;
+}
+
+#mar {
+    color: burlywood;
+}
+
+#mer {
+    color: red;
+}
+
+#jeu {
+    color: violet;
+}
+
+#ven {
+    color: blue;
+}
+
+#sam {
+    color: green;
+}
+
+#dim {
+    color: gray;
+}
+
+body {
+    background-image:url(../img/orville-by-gibson-les-paul-standard-1991.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
